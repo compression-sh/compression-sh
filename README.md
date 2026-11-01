@@ -2,7 +2,7 @@
 compression-sh@github:~$ fastfetch
 ```
 
-<img align="left" src="https://github.com/compression-sh/compression-sh/blob/main/cropped.png?raw=true" alt="Unfortunately I didn't find the author of the pic, feel free to open a pull request if found" width="320" height="209" />
+<img align="left" src="https://raw.githubusercontent.com/compression-sh/compression-sh/main/cropped.png" alt="Unfortunately I didn't find the author of the pic, feel free to open a pull request if found" width="160" />
 
 ```csharp
 compression-sh@github
