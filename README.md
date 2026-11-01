@@ -26,21 +26,6 @@ Currently: turning caffeine into commits
 
 <img alt="#917b88" src="https://raw.githubusercontent.com/compression-sh/compression-sh/main/img/917b88.png" width="25" height="20" /><img alt="#fdfef6" src="https://raw.githubusercontent.com/compression-sh/compression-sh/main/img/fdfef6.png" width="25" height="20" /><img alt="#91bebb" src="https://raw.githubusercontent.com/compression-sh/compression-sh/main/img/91bebb.png" width="25" height="20" /><img alt="#feb2bf" src="https://raw.githubusercontent.com/compression-sh/compression-sh/main/img/feb2bf.png" width="25" height="20" /><img alt="#95e3ed" src="https://raw.githubusercontent.com/compression-sh/compression-sh/main/img/95e3ed.png" width="25" height="20" />
 
-```console
-compression-sh@github:~$ make stats
-```
-
-<p align="center">
-  <img height="150" src="https://github-stats-extended.vercel.app/api?username=compression-sh&show_icons=true&hide_border=true&bg_color=00000000&title_color=91bebb&icon_color=feb2bf&text_color=fdfef6" alt="" />
-  <img height="150" src="https://github-stats-extended.vercel.app/api/top-langs/?username=compression-sh&layout=compact&hide_border=true&bg_color=00000000&title_color=91bebb&text_color=fdfef6" alt="" />
-</p>
-
-<img
-  width="100%"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=compression-sh&theme=github_dark"
-  alt="GitHub profile details"
-/>
-
 
 ```console
 compression-sh@github:~$ ./snake --play
