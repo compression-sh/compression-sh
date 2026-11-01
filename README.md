@@ -30,9 +30,9 @@ Currently: turning caffeine into commits
 compression-sh@github:~$ make stats
 ```
 
-<p>
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=compression-sh&show_icons=true&hide_border=true&bg_color=00000000&title_color=91bebb&icon_color=feb2bf&text_color=fdfef6" />
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=compression-sh&layout=compact&hide_border=true&bg_color=00000000&title_color=91bebb&text_color=fdfef6" />
+<p align="center">
+  <img height="150" src="https://github-stats-extended.vercel.app/api?username=compression-sh&show_icons=true&hide_border=true&bg_color=00000000&title_color=91bebb&icon_color=feb2bf&text_color=fdfef6" alt="" />
+  <img height="150" src="https://github-stats-extended.vercel.app/api/top-langs/?username=compression-sh&layout=compact&hide_border=true&bg_color=00000000&title_color=91bebb&text_color=fdfef6" alt="" />
 </p>
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=compression-sh&bg_color=00000000&color=91bebb&line=917b88&point=feb2bf&area=true&area_color=91bebb&hide_border=true" />
