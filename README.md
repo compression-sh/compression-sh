@@ -2,57 +2,30 @@
 compression-sh@github:~$ fastfetch
 ```
 
-```
- _____________________________________
-< curious mind, questionable sleep schedule >
- ------------------------------------- 
- /''''''''''''/
-/''''''''''''/
-/''''''/
-/''''''/
-\......\
-\......\
-\.............../
- \............./
-```
-
-<img align="left" src="https://github.com/compression-sh/compression-sh/blob/main/cropped.png" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" height="225" style="object-fit: cover;" />
+<img align="left" src="https://github.com/compression-sh/compression-sh/blob/main/cropped.png?raw=true" alt="Unfortunately I didn't find the author of the pic, feel free to open a pull request if found" width="320" height="225" />
 
 ```csharp
 compression-sh@github
--------------------------
-OS: CachyOS x86\_64
-Shell: zsh
-Location: Switzerland, CH
-Interests: Linux, code, and fixing things I probably broke
-Currently: turning caffeine into commits
-
-
-
-
+---------------------
+OS:        CachyOS x86_64
+Shell:     zsh
+Location:  Switzerland, CH
+Interests: Linux, code, fixing what I broke
+Status:    turning caffeine into commits
+Motto:     curious mind, questionable sleep schedule
 ```
 
+<br clear="left" />
 
-<p align="left">
-  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 <img alt="#917b88" src="https://raw.githubusercontent.com/compression-sh/compression-sh/main/img/917b88.png" width="25" height="20" /><img alt="#fdfef6" src="https://raw.githubusercontent.com/compression-sh/compression-sh/main/img/fdfef6.png" width="25" height="20" /><img alt="#91bebb" src="https://raw.githubusercontent.com/compression-sh/compression-sh/main/img/91bebb.png" width="25" height="20" /><img alt="#feb2bf" src="https://raw.githubusercontent.com/compression-sh/compression-sh/main/img/feb2bf.png" width="25" height="20" /><img alt="#95e3ed" src="https://raw.githubusercontent.com/compression-sh/compression-sh/main/img/95e3ed.png" width="25" height="20" />
-</p>
 
 ```console
-compression-sh@github:~$ make build-life
+compression-sh@github:~$ make stats
 ```
 
-```text
-[sudo] Password for compression-sh: ************
+<p>
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=compression-sh&show_icons=true&hide_border=true&bg_color=00000000&title_color=91bebb&icon_color=feb2bf&text_color=fdfef6" />
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=compression-sh&layout=compact&hide_border=true&bg_color=00000000&title_color=91bebb&text_color=fdfef6" />
+</p>
 
-Fetching source code... [DONE]
-Resolving dependencies... [DONE]
-Compiling modules...
-  --> core_logic.cpp ............ [OK]
-  --> system_optimization.rs .... [OK]
-  --> caffeine_intake.py ........ [OK]
-Linking binaries... [DONE]
-
-Build successful. 0 errors, 142 warnings (ignored).
-Executing ./life --mode=productive...
-```
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=compression-sh&hide_border=true&background=00000000&ring=91bebb&fire=feb2bf&currStreakLabel=fdfef6&sideLabels=fdfef6&currStreakNum=fdfef6&sideNums=fdfef6&dates=917b88" height="150" />
