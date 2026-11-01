@@ -35,7 +35,7 @@ compression-sh@github:~$ make stats
   <img height="150" src="https://github-stats-extended.vercel.app/api/top-langs/?username=compression-sh&layout=compact&hide_border=true&bg_color=00000000&title_color=91bebb&text_color=fdfef6" alt="" />
 </p>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=compression-sh&bg_color=00000000&color=91bebb&line=917b88&point=feb2bf&area=true&area_color=91bebb&hide_border=true" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=compression-sh&bg_color=000000&color=91bebb&line=917b88&point=feb2bf&area=true&hide_border=true" alt="GitHub activity graph" />
 
 ```console
 compression-sh@github:~$ ./snake --play
