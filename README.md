@@ -41,4 +41,5 @@ compression-sh@github:~$ make stats
 compression-sh@github:~$ ./snake --play
 ```
 
-<img width="100%" src="https://raw.githubusercontent.com/compression-sh/compression-sh/output/github-snake-dark.svg" alt="GitHub contribution snake" />
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/compression-sh/compression-sh/output/github-snake-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/compression-sh/compression-sh/output/github-snake.svg" /><img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/compression-sh/compression-sh/output/github-snake.svg" /></picture>
