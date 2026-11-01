@@ -19,10 +19,7 @@ Currently: turning caffeine into commits
 ```
 
 
-<p align="center">
-  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-<img alt="#917b88" src="raw.githubusercontent.com/compression-sh/compression-sh/main/img/917b88.png" width="25" height="20" /><img alt="#fdfef6" src="raw.githubusercontent.com/compression-sh/compression-sh/main/img/fdfef6.png" width="25" height="20" /><img alt="#91bebb" src="raw.githubusercontent.com/compression-sh/compression-sh/main/img/91bebb.png" width="25" height="20" /><img alt="#feb2bf" src="raw.githubusercontent.com/compression-sh/compression-sh/main/img/feb2bf.png" width="25" height="20" /><img alt="#95e3ed" src="raw.githubusercontent.com/compression-sh/compression-sh/main/img/95e3ed.png" width="25" height="20" />
-</p>
+<p align="center"><img alt="#917b88" src="https://raw.githubusercontent.com/compression-sh/compression-sh/main/img/917b88.png" width="25" height="20" /><img alt="#fdfef6" src="https://raw.githubusercontent.com/compression-sh/compression-sh/main/img/fdfef6.png" width="25" height="20" /><img alt="#91bebb" src="https://raw.githubusercontent.com/compression-sh/compression-sh/main/img/91bebb.png" width="25" height="20" /><img alt="#feb2bf" src="https://raw.githubusercontent.com/compression-sh/compression-sh/main/img/feb2bf.png" width="25" height="20" /><img alt="#95e3ed" src="https://raw.githubusercontent.com/compression-sh/compression-sh/main/img/95e3ed.png" width="25" height="20" /></p>
 
 ```console
 compression-sh@github:~$ ./snake --play
