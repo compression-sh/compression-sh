@@ -1,5 +1,3 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:917b88,50:91bebb,100:95e3ed&height=120&section=header" />
-
 ```console
 compression-sh@github:~$ fastfetch
 ```
@@ -40,5 +38,3 @@ compression-sh@github:~$ ./snake --play
 ```
 
 <img width="100%" src="https://raw.githubusercontent.com/compression-sh/compression-sh/output/github-snake-dark.svg" alt="contribution snake" />
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:95e3ed,50:91bebb,100:917b88&height=100&section=footer" />
