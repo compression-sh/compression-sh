@@ -41,4 +41,4 @@ compression-sh@github:~$ make stats
 compression-sh@github:~$ ./snake --play
 ```
 
-<img width="100%" src="https://raw.githubusercontent.com/compression-sh/compression-sh/output/github-snake-dark.svg" alt="contribution snake" />
+<img width="100%" src="https://raw.githubusercontent.com/compression-sh/compression-sh/output/github-snake-dark.svg" alt="GitHub contribution snake" />
