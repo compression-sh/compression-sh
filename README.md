@@ -56,4 +56,3 @@ Linking binaries... [DONE]
 Build successful. 0 errors, 142 warnings (ignored).
 Executing ./life --mode=productive...
 ```
-```
