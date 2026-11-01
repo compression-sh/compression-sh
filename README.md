@@ -23,7 +23,6 @@ compression-sh@github
 -------------------------
 OS: CachyOS x86\_64
 Shell: zsh
-WM: Hyprland
 Location: Switzerland, CH
 Interests: Linux, code, and fixing things I probably broke
 Currently: turning caffeine into commits
