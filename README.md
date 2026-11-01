@@ -28,5 +28,4 @@ Currently: turning caffeine into commits
 compression-sh@github:~$ ./snake --play
 ```
 
-
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/compression-sh/compression-sh/output/github-snake-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/compression-sh/compression-sh/output/github-snake.svg" /><img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/compression-sh/compression-sh/output/github-snake.svg" /></picture>
+<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/compression-sh/compression-sh/output/github-snake-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/compression-sh/compression-sh/output/github-snake.svg" /><img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/compression-sh/compression-sh/output/github-snake.svg" /></picture></p>
