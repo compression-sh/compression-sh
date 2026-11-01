@@ -7,11 +7,15 @@ compression-sh@github:~$ fastfetch
 ```csharp
 compression-sh@github
 -------------------------
-OS: CachyOS x86_64
+OS: CachyOS x86\_64
 Shell: zsh
 Location: Switzerland, CH
 Interests: Linux, code, and fixing things I probably broke
 Currently: turning caffeine into commits
+
+
+
+
 ```
 
 <br clear="left" />
