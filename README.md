@@ -20,7 +20,7 @@ Currently: turning caffeine into commits
 
 
 <p align="left">
-  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+  &nbsp; &nbsp; &nbsp; &nbsp;
 <img alt="#0A260C" src="https://raw.githubusercontent.com/compression-sh/compression-sh/main/img/0A260C.png" width="25" height="20" /><img alt="#5C735D" src="https://raw.githubusercontent.com/compression-sh/compression-sh/main/img/5C735D.png" width="25" height="20" /><img alt="#73A626" src="https://raw.githubusercontent.com/compression-sh/compression-sh/main/img/73A626.png" width="25" height="20" /><img alt="#90A67B" src="https://raw.githubusercontent.com/compression-sh/compression-sh/main/img/90A67B.png" width="25" height="20" /><img alt="#B3D9A9" src="https://raw.githubusercontent.com/compression-sh/compression-sh/main/img/B3D9A9.png" width="25" height="20" />
 </p>
 
